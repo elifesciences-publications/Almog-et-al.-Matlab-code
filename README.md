@@ -28,3 +28,5 @@ For questions about the data or the study, contact Dr. Dori Derdikman derdik@tec
 For licencing and usage please contact Dr. Dori Derdikman derdik@technion.ac.il .
 
 https://derdiklab.technion.ac.il/
+
+### This code is associated with the paper from Almog et al., "During hippocampal inactivation, grid cells maintain synchrony, even when the grid pattern is lost". eLife, 2019. http://dx.doi.org/10.7554/eLife.47147
